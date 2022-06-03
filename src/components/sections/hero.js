@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { email } from '@config';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
@@ -75,12 +76,8 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href={`mailto:${email}`} target="_blank" rel="noreferrer">
+      Get in Touch!
     </a>
   );
 
