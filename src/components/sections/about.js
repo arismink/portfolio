@@ -143,8 +143,7 @@ const About = () => {
 
             <p>
               I later went on to obtain a Bachelor of Commerce in Management Information Systems. I
-              worked 4-5 years as a Systems Analyst until I realized that I wanted to be more
-              involved in the solutions I recommended.
+              worked 4-5 years as a Systems Analyst.
             </p>
 
             <p>
