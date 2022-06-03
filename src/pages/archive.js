@@ -177,7 +177,7 @@ const ArchivePage = ({ location, data }) => {
                     ios,
                     android,
                     title,
-                    tech,
+                    // tech,
                     company,
                   } = node.frontmatter;
                   return (
@@ -190,7 +190,7 @@ const ArchivePage = ({ location, data }) => {
                         {company ? <span>{company}</span> : <span>—</span>}
                       </td>
 
-                      <td className="tech hide-on-mobile">
+                      {/* <td className="tech hide-on-mobile">
                         {tech.length > 0 &&
                           tech.map((item, i) => (
                             <span key={i}>
@@ -199,7 +199,7 @@ const ArchivePage = ({ location, data }) => {
                               {i !== tech.length - 1 && <span className="separator">&middot;</span>}
                             </span>
                           ))}
-                      </td>
+                      </td> */}
 
                       <td className="links">
                         <div>
