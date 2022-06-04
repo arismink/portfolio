@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Krismina La',
     description: 'Krismina La is a full-stack software developer.',
-    siteUrl: 'https://krisminala.netlify.app', // No trailing slash allowed!
+    siteUrl: 'https://krismina.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
