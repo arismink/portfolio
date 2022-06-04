@@ -2,6 +2,7 @@
 date: '03-31-2022'
 title: 'Tweeter'
 github: 'https://github.com/arismink/tweeter'
+company: 'Lighthouse Labs'
 tech:
   - jQuery
   - PostgreSQL

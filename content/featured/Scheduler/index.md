@@ -4,6 +4,7 @@ title: 'Scheduler'
 cover: './demo.png'
 github: 'https://github.com/arismink/scheduler'
 external: 'https://production--scheduler-arismink.netlify.app/'
+company: 'Lighthouse Labs'
 tech:
   - React
   - Node.js

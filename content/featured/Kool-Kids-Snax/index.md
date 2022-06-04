@@ -4,6 +4,7 @@ title: 'Kool-Kids-Snax'
 cover: './demo.png'
 github: 'https://github.com/arismink/kool-kids-snax'
 external: 'https://kool-kids-snax.herokuapp.com/user/5'
+company: 'Lighthouse Labs'
 tech:
   - jQuery
   - PostgreSQL

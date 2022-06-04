@@ -4,6 +4,7 @@ title: 'Herbiview'
 cover: './demo.png'
 github: 'https://github.com/arismink/herbiview'
 external: 'https://herbiview.herokuapp.com/'
+company: 'Lighthouse Labs'
 tech:
   - React
   - Plant.id API

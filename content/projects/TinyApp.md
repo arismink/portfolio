@@ -2,6 +2,7 @@
 date: '03-25-2022'
 title: 'TinyApp'
 github: 'https://github.com/arismink/tinyapp'
+company: 'Lighthouse Labs'
 tech:
   - Express
   - Node.js

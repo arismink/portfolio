@@ -2,6 +2,7 @@
 date: '05-12-2022'
 title: 'Jungle'
 github: 'https://github.com/arismink/jungle-rails'
+company: 'Lighthouse Labs'
 tech:
   - Ruby on Rails
   - BootStrap
