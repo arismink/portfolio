@@ -65,13 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a full-stack developer with a degree in Information Systems. I recently just finished a
+        full-stack web development bootcamp and am currently looking for opportunities and projects
+        to that will allow me to continue developing my skills and creativity.
       </p>
     </>
   );

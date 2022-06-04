@@ -1,10 +1,11 @@
 ---
 date: '2017-06-12'
 title: 'Business Systems Analyst'
-company: 'Red Deer Ironworks, Inc'
+company: 'Red Deer Ironworks'
 location: 'Edmonton, AB'
 range: 'June 2017 - March 2021'
 url: 'https://rdironworks.com/'
+showInProjects: false
 ---
 
 - Organized and implemented Epicor ERP data migration and system maintenance.

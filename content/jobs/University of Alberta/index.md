@@ -5,6 +5,7 @@ company: 'University of Alberta'
 location: 'Edmonton, AB'
 range: 'March 2021 - February 2022'
 url: 'https://www.ualberta.ca/index.html'
+showInProjects: false
 ---
 
 - Analyze current business processes and identify areas for growth and opportunities

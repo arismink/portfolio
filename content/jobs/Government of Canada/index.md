@@ -5,6 +5,7 @@ company: 'Government of Canada'
 location: 'Edmonton, AB'
 range: 'April 2016 - June 2017'
 url: 'https://www.ualberta.ca/index.html'
+showInProjects: false
 ---
 
 - Diagnose and troubleshoot computer hardware issues, peripherals and software applications

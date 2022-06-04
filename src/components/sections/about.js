@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'SQL', 'Node.js', 'Jest'];
+  const skills = ['JavaScript (ES6+)', 'React', 'SQL', 'Node.js', 'Jest'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -147,8 +147,8 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, I've just completed my bootcamp in Web Development and I can't
-              wait to keep growing and learning.
+              Fast-forward to today, I've just completed my bootcamp in Web Development and I really
+              love programming. I can't wait to keep growing and learning more tech stacks.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
