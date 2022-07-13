@@ -65,9 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Full-stack developer with a degree in Management Information Systems. I recently just
-        finished a full-stack web development bootcamp and am currently looking for opportunities
-        and projects that will allow me to continue developing my skills and creativity.
+        Software developer with a degree in Management Information Systems and a diploma in web
+        development. I am very excited to see where my next adventure will take me.
       </p>
     </>
   );
