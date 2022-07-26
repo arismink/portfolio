@@ -65,8 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Software developer and Cat Mom with a degree in Management Information Systems and a diploma
-        in web development. I am very excited to see where my next adventure will take me.
+        Currently, I have completed a web development diploma and am beyond excited to start my next adventure at Granify.
       </p>
     </>
   );
