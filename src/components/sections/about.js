@@ -142,13 +142,8 @@ const About = () => {
             </p>
 
             <p>
-              I later went on to obtain a Bachelor of Commerce in Management Information Systems. I
-              worked 4-5 years as a Systems Analyst.
-            </p>
-
-            <p>
-              Fast-forward to today, I've just completed my bootcamp in Web Development and I really
-              love programming. I can't wait to keep growing and learning more tech stacks.
+              I later went on to obtain a Bachelor of Commerce in Management Information Systems and
+              worked 4-5 years as a Systems Analyst. Fast forward today, I have a diploma in Web Development and am currently a Software Developer.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
