@@ -65,7 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Currently, I have completed a web development diploma and am beyond excited to start my next adventure at Granify.
+        Diverse Full Stack Developer with industry experience in federal government, education and oil & gas. Passionate, motivated
+        to learn and driven about creating exceptional end-user experiences, I build things that live on the web.
+        Currently, I am working on building and testing features that will improve user browsing experiences at <a href="https://www.granify.com/"> Granify</a>.
       </p>
     </>
   );
